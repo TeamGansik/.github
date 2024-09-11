@@ -1,8 +1,8 @@
-# My Awesome Project
+# Gansik Shop Project
 
 ## 프로젝트 소개
 
-이 프로젝트는 Spring Boot를 기반으로 한 백엔드와 HTML, CSS, JavaScript, Bootstrap을 이용한 프론트엔드로 구성된 웹 애플리케이션입니다. 사용자 인증은 Spring Security를 사용하여 구현하였으며, 데이터베이스 접근은 JPA와 QueryDSL을 통해 처리합니다.
+2024.09.02 ~ 2024.09.09까지 진행한 온라인 쇼핑몰 구축 프로젝트
 
 ### 차용한 API
 
@@ -10,7 +10,7 @@
 
   ![Daum Logo](https://t1.daumcdn.net/postcode/resource/images/logo/daumlogo@2x.png)
 
-  본 프로젝트는 다음(Daum) 우편번호 서비스를 이용하여 사용자에게 편리한 주소 검색 기능을 제공합니다.
+  본 프로젝트는 다음(Daum) 우편번호 서비스를 이용하여 회원 가입 및 수정 시 사용자에게 편리한 주소 검색 기능을 제공합니다.
 
 ## 기술 스택
 
