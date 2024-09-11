@@ -12,6 +12,13 @@
 
   본 프로젝트는 다음(Daum) 우편번호 서비스를 이용하여 회원 가입 및 수정 시 사용자에게 편리한 주소 검색 기능을 제공합니다.
 
+### IDE
+### Backend
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+### Frontend
+![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  
 ## 기술 스택
 
 ### Backend
@@ -29,5 +36,15 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## 설치 및 실행 방법
+### 실행 방법
 
+### Frontend
+git clone https://github.com/TeamGansik/Gansik-Shop-Frontend.git
+
+### Backend
+git clone https://github.com/TeamGansik/Gansik-Shop-Backend.git
+
+1. Backend application.properties or application.yml 작성
+2. Frontend의 main.html VSCode Live Server로 실행
+3. Live Server Port 확인
+4. Backend /src/config/SecurityConfig.java에서 cors부분 Port 수정 후 서버 재실행
