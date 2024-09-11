@@ -8,7 +8,7 @@
 
 - **[다음 우편번호 서비스](https://postcode.map.daum.net/guide)**
 
-  ![Daum Logo](https://t1.daumcdn.net/postcode/resource/images/logo/daumlogo@2x.png)
+![daumpostcode v2](https://github.com/user-attachments/assets/b21d755e-1888-4df9-81a3-3c29a9773d77)
 
   본 프로젝트는 다음(Daum) 우편번호 서비스를 이용하여 회원 가입 및 수정 시 사용자에게 편리한 주소 검색 기능을 제공합니다.
 
