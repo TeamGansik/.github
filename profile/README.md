@@ -16,6 +16,15 @@
 
   본 프로젝트에서는 다음(Daum) 우편번호 서비스를 이용하여 회원 가입 및 수정 시 사용자에게 편리한 주소 검색 기능을 제공합니다.
 
+### 기능
+회원 - 가입, 수정, 로그인, 로그아웃
+
+주문 - 등록, 조회
+
+상품 - 등록, 전체 조회, 키워드 별 조회, 카테고리 별 조회, 상세 조회
+
+장바구니 - 등록, 수정, 삭제(선택형), 조회, 장바구니에서 주문
+
 ### IDE
 ### Backend
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -62,3 +71,27 @@ git clone https://github.com/TeamGansik/Gansik-Shop-Backend.git
 ## 로그인 전/후 상태바
 ![Before Login](https://github.com/user-attachments/assets/63d02b81-a1a6-4d9b-863f-cb8dc0bc6a8b)
 ![After Login](https://github.com/user-attachments/assets/ceab561b-dc11-44cb-a446-870c7e78dba7)
+
+## 로그인창 & 회원 가입(수정폼) (회원 가입과 수정폼은 동일한 형식)
+![Login](https://github.com/user-attachments/assets/2208bec7-5b93-4d6f-b1b0-9f5edbc7fd41)
+![MemberForm](https://github.com/user-attachments/assets/556d4d72-62fc-40be-8e8c-46519cf99201)
+
+## 회원 가입(수정) 시 이메일 인증
+![Email](https://github.com/user-attachments/assets/552a6b9f-7ac6-4281-99d0-41b177de05c1)
+![Email2](https://github.com/user-attachments/assets/1ee3d05b-7929-441b-8fde-c511ee39028b)
+![Email3](https://github.com/user-attachments/assets/5022482b-6a65-4fd1-928f-84e734f8f0cc)
+![Email4](https://github.com/user-attachments/assets/f2ce0f6a-89b7-4483-922d-74771252997e)
+
+## 로그인이 필요한 서비스 접근 시 (로그인 없이 마이페이지, 장바구니, 장바구니 담기, 구매하기 선택 시)
+![Alert](https://github.com/user-attachments/assets/4490695c-db6d-49cf-99a2-8f53b9ffab0c)
+
+## 상품 등록 
+![Item Upload](https://github.com/user-attachments/assets/2ab64eb7-4a60-403d-be13-270b77bd7511)
+
+## 상품 조회 (전체 검색, 키워드 검색, 카테고리 검색)
+![Search Result](https://github.com/user-attachments/assets/9ebaa75c-d5bf-4767-b9c0-8d74c32a89f9)
+![No Search Result](https://github.com/user-attachments/assets/e899ed31-24e9-486e-ace8-836231b7fbce)
+
+## 장바구니 & 주문 조회
+![Cart](https://github.com/user-attachments/assets/ee59c757-db9b-4610-b5da-717d89ff8c39)
+![order](https://github.com/user-attachments/assets/adf5dd2e-b0a4-4408-9598-461926539184)
